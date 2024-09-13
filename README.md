@@ -1,6 +1,6 @@
 # Simple API Java
 
-Aplicação API 
+API Java Simples para lab de integração com o AzureDevOps Board
 
 ## Pré-requisitos
 
