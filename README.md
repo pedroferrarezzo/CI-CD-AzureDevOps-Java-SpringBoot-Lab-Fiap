@@ -14,7 +14,7 @@ API Java Simples para lab de integração com o AzureDevOps Board
 docker compose up --build
 ```
 
-## Testes unitários (validação)
+## Testes unitários (validação) - Maven
 
 ./mvnw test
 
